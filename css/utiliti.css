@@ -1,0 +1,39 @@
+
+
+.yt-icon{
+  width: 24px;
+  cursor: pointer;
+}
+.yt-logo{
+  width: 120px;
+  height: 20px;
+  position: relative;
+}
+.user{
+  width: 32px;
+  height: 32px;
+}
+
+/** display flex */
+.d-flex{
+  display: flex;
+  align-items: center;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.justify-center{
+  justify-content: center;
+}
+.justify-space-between{
+  justify-content: space-between;
+}
+.g-10{
+  gap: 10px;
+}
+.g-20{
+  gap: 20px;
+}
+.g-30{
+  gap: 30px;
+}
